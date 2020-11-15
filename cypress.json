@@ -1,1 +1,9 @@
-{}
+{
+  "projectId": "",
+  "ignoreTestFiles": "*.js",
+  "testFiles": "**/*.feature",
+  "env": {
+    "baseUrl": "https://www.purgomalum.com",
+    "format": "json"
+  }
+}
