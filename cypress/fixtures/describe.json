@@ -1,0 +1,30 @@
+{
+  "personalDetails": {
+    "firstName": "Solomon",
+    "lastName": "'Wuni",
+    "gender": "Male",
+    "religion": "Christianity",
+    "complexion": "Black",
+    "languages": ["English", "Yoruba"]
+  },
+  "qualification": "ISTQB",
+  "profession": "Automation tester",
+  "contactDetails": {
+    "mobile": "07299061111",
+    "email": "solomon_wuni@yahoo.co.uk",
+    "address": {
+      "houseNumber": 30,
+      "street": "Holborn Road",
+      "city": "London"
+    }
+  },
+  "interests": [
+    "CPD",
+    "Table tennis",
+    "spending time with family",
+    "travelling",
+    "politics"
+  ],
+  "prizedPossession": "my sanity",
+  "ambitious": true
+}
