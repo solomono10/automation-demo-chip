@@ -1,5 +1,5 @@
 import { Given, When, Then } from 'cypress-cucumber-preprocessor/steps';
-import { allowedFillCharacters } from '../../fixtures/fill-characters';
+import allowedFillCharacters from '../../fixtures/fill-characters';
 
 let baseUrl;
 let format;

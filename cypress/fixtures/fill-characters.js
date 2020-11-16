@@ -1,3 +1,3 @@
 const allowedFillCharacters = ['_', '~', '-', '=', '*'];
 
-module.exports = { allowedFillCharacters };
+export default allowedFillCharacters;
